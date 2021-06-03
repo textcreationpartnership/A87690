@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kentish fayre· Or, The Parliament sold to their best worth. ...</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87690</idno><idno type="EEBO-CITATION">99862849</idno>
+  <idno type="VID">161785</idno>
+  <idno type="EEBO-PROQUEST">2240914261</idno>
+  
+            <idno type="STC">Wing K324</idno>
+            <idno type="STC">Thomason E446_21</idno>
+            <idno type="STC">ESTC R202624</idno>
+            <idno type="PROQUEST">99862849</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862849e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161785)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E446[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kentish fayre· Or, The Parliament sold to their best worth. ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>and are to be sold, to all those that dare buy them,</publisher>
+                  <pubPlace>Printed at Rochester [i.e. London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>The imprint is false; actually printed in London (Wing).</note>
+                  <note>Annotation on Thomason copy: "June 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161785:1"/>
+            <p>THE KENTISH FAYRE▪ OR, The Parliament sold to their best worth.</p>
+            <q>
+               <lg>
+                  <l>Good <hi>Oliver,</hi> lend me thy nose</l>
+                  <l>'Tis darke, all lights are out:</l>
+                  <l>For now I meane to write in prose,</l>
+                  <l>But guided, by thy snout.</l>
+               </lg>
+               <lg>
+                  <l>Black <hi>Tom</hi> already's at the <hi>Faire,</hi>
+                  </l>
+                  <l>And in his Coach is carried:</l>
+                  <l>His men, mean-while blowne in the <hi>Ayre,</hi>
+                  </l>
+                  <l>And to the Friends, are married.</l>
+               </lg>
+               <lg>
+                  <l>Some <hi>Citizens,</hi> they say will ride,</l>
+                  <l>To buy Knacks for their <hi>Wives:</hi>
+                  </l>
+                  <l>Let <hi>Skippon,</hi> Skipp-on, as their Guid,</l>
+                  <l>He may protect their lives.</l>
+               </lg>
+               <lg>
+                  <l>At <hi>Rochester,</hi> the Faire is held,</l>
+                  <l>By all good tokens, know it:</l>
+                  <l>A thousand <hi>Saints,</hi> late, there were feld</l>
+                  <l>As yet the Bridge, can show it.</l>
+               </lg>
+            </q>
+            <p>Printed at <hi>Rochester,</hi> and are to be sold, to all those that dare buy them. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="2" facs="tcp:161785:2"/>
+            <head>THE KENTISH FAYRE: OR, THE PARLIAMENT SOLD TO THEIR WORTH.</head>
+            <sp>
+               <speaker>The Cryer.</speaker>
+               <p>O yes, ô yes, ô yes; All manner of Persons.</p>
+               <lg>
+                  <l>KNow our most gracious godly Parliament</l>
+                  <l>Is set to sale at <hi>Rochester</hi> in <hi>Kent:</hi>
+                  </l>
+                  <l>All those who have a mind to buy, repaire</l>
+                  <l>Thither, and they may have their Choice of ware.</l>
+                  <l>A Faire is kept there, there to sale is set</l>
+                  <l>The Mischiefes did at first, the Warre beget:</l>
+                  <l>There you may Buy, pretended false Religion,</l>
+                  <l>Iealousies, feares, false-hearted, and Misprision.</l>
+                  <l>The cursed Plot, to take off <hi>STRAFFORD</hi>'s head,</l>
+                  <l>And to send <hi>Canterbury</hi> to the Dead:</l>
+                  <l>To drive the <hi>King</hi> away, to carry on</l>
+                  <l>A most unheard of vile Rebellion.</l>
+                  <l>To Prison him, debarre him of his Wife:</l>
+                  <l>And lastly, to bereave him of his Life.</l>
+                  <l>Here now the Rebels reigne is at an end,</l>
+                  <l>You may by them, and what they did Intend.</l>
+               </lg>
+            </sp>
+            <stage>Two Knights in disguize, or Sir <hi>Tho: Palmer,</hi> and Sir <hi>Tho: Peyton.</hi>
+            </stage>
+            <sp>
+               <speaker>1. <hi>Ped:</hi>
+               </speaker>
+               <p>How doe I show in this habit.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Ped:</hi>
+               </speaker>
+               <p>Like a perfect <hi>Canter,</hi> and with as sallow a Coun<g ref="char:EOLhyphen"/>tenance,
+<pb n="3" facs="tcp:161785:2"/> as if thou hadst borne a Pack and laine in straw this seaven yeares.</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Ped.</hi>
+               </speaker>
+               <p>I like that well, thou art as perfectly Metamorpho<g ref="char:EOLhyphen"/>sed as my selfe; in these habits we may securely travaile, we must passe through all hazards for our King, how strong are the <hi>Kentish-men?</hi>
+               </p>
+               <p>Full sixteene thousand Sir, in Horse and Foot, they doe in<g ref="char:EOLhyphen"/>crease their numbers every day, the Apprentices of <hi>London</hi> flock unto them.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Ped.</hi>
+               </speaker>
+               <p>If <hi>Kent</hi> that ne're was Conquer'd, now hold our stifly for the King, and conquer Treason and Rebellion, the latter Conquest will exceed their former Policie.</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Ped.</hi>
+               </speaker>
+               <p>Eight of His Majesties Ships, have willingly sub<g ref="char:EOLhyphen"/>mitted to their power, the rest is thought wil come in shortly; <hi>Rainsborough</hi> the Vice-Admirall is turn'd on shore, his teares and prayers saved his life, else they had cast him over-bord.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Ped.</hi>
+               </speaker>
+               <p>To see when as Rebellion was at highest, and Trea<g ref="char:EOLhyphen"/>son graspt a Scepter, how soone the fickle Lady, turn'd her Wheele, now all things are reverst, miseries now threaten the Rebels from all quarters; behold brave <hi>Poyer,</hi> the first that shewed himselfe for his King and Country, now bravely de<g ref="char:EOLhyphen"/>fending <hi>Pembroke</hi> Castle, having beaten <hi>Flemming,</hi> and <hi>Hor<g ref="char:EOLhyphen"/>ton,</hi> yea <hi>Oliver</hi> himselfe, and now remaineth in a gallant po<g ref="char:EOLhyphen"/>sture, with a strong Army in the field; see where the hardy <hi>Scots</hi> are comming dancing a Martiall measure, after their Drums and Bag-pipes; see where Sir <hi>Marmaduke Langdale</hi> in the North, having fortified <hi>Barwick,</hi> now is scowring the Country, having an Army of 7000 Men, with whom joynes Sir <hi>Thomas Glemham,</hi> that able and incomparable Comman<g ref="char:EOLhyphen"/>der, who hath ceaz'd on <hi>Carlile,</hi> and fortified it for the King: See where the most renowned men of <hi>Kent,</hi> are in huge Bo<g ref="char:EOLhyphen"/>dies joyn'd, have lately given the Arch-Rebell <hi>Fairfax</hi> a great overthrow neare <hi>Rochester,</hi> have kill'd a thousand on the place, have taken divers, dispiersed his whole Army, himselfe esca<g ref="char:EOLhyphen"/>ping hardly; <hi>Essex, Surrey,</hi> and <hi>Cornwall,</hi> now putting them<g ref="char:EOLhyphen"/>selves into a Military posture. Ha, who are these, what Wo<g ref="char:EOLhyphen"/>men weare Armes.</p>
+            </sp>
+            <pb n="5" facs="tcp:161785:3"/>
+            <stage>Mrs. <hi>Webster,</hi> and Mrs. <hi>Maine,</hi> with Pistols and Swords.</stage>
+            <stage>They Sing.<note place="margin">Mrs. <hi>Web<g ref="char:EOLhyphen"/>ster</hi> and Mi<g ref="char:EOLhyphen"/>stris <hi>Maine,</hi> two Women y<seg rend="sup">t</seg> are now in Armes in <hi>
+                     <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ent.</hi>
+               </note>
+            </stage>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <sp>
+                           <speaker>Mrs. Web.</speaker>
+                           <lg>
+                              <l>MEn tardy growne, and deaf to good,</l>
+                              <l>remisse in every thing:</l>
+                              <l>Their owne great woes, not understood</l>
+                              <l>themselves slav'd, and their King.</l>
+                           </lg>
+                           <lg>
+                              <l>'Tis time that Women armour weare,</l>
+                              <l>and teach Men for to fight:</l>
+                              <l>'Gainst those, who their destruction sweare,</l>
+                              <l>and seeke it, day and night.</l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <speaker>Mrs. Maine.</speaker>
+                           <lg>
+                              <l>Wee two like <hi>Amazons</hi> of old,</l>
+                              <l>who fought for wretched <hi>Troy:</hi>
+                              </l>
+                              <l>Have vow'd, to Kill all those that would,</l>
+                              <l>persist us to anoy.</l>
+                           </lg>
+                           <lg>
+                              <l>Come <hi>Fairfax,</hi> thee I long to Charge</l>
+                              <l>at head of all thy Men:</l>
+                              <l>And send thee maimed in a Barge</l>
+                              <l>to <hi>London</hi> back agen.</l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <speaker>Mrs. Web.</speaker>
+                           <lg>
+                              <l>
+                                 <hi>No<gap reason="illegible" resp="#oxf" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap> Cromwell,</hi> though thou bath'st in flames,</l>
+                              <l>yet know thou Salamander:</l>
+                              <l>That thou shalt tremble at our Names,</l>
+                              <l>and wee shall send you yonder.</l>
+                           </lg>
+                           <lg>
+                              <l>Come all yee <hi>Sectaries</hi> that dwell</l>
+                              <l>within the cursed Citie:</l>
+                              <l>And wee will send you unto Hell,</l>
+                              <l>unto the black Committee.</l>
+                           </lg>
+                        </sp>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>1. <hi>Ped.</hi>
+               </speaker>
+               <p>Well met warlike Women, how many are there of your County, that walke in your equipage?</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Web.</hi>
+               </speaker>
+               <p>Many <hi>Pedlar,</hi> whither art thou Sirrah and thy fellow going.</p>
+            </sp>
+            <pb n="5" facs="tcp:161785:3"/>
+            <sp>
+               <speaker>2. <hi>Ped.</hi>
+               </speaker>
+               <p>Going woman, why to the Faire.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Ma.</hi>
+               </speaker>
+               <p>Who are you for.</p>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Ped.</hi>
+               </speaker>
+               <p>For our Customers.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Web.</hi>
+               </speaker>
+               <p>God and his Angels? Why this is Sir <hi>Tho: Pal<g ref="char:EOLhyphen"/>mer;</hi> pardon us good Sir, we did not know you.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Ma.</hi>
+               </speaker>
+               <p>And this is Sir <hi>Tho: Peyton</hi> most noble Knights pardon our bold presumption, as you were <hi>Pedlars</hi> wee had power to taxe you, as you are <hi>Knights,</hi> we serve you.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>T. Pal:</hi>
+               </speaker>
+               <p>Thankes to you both <hi>Viraga's,</hi> what men of note have you now at the Faire, who lead the rest a <hi>Cinque-pace,</hi> un<g ref="char:EOLhyphen"/>to the martiall murmur of the Drum.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Web.</hi>
+               </speaker>
+               <p>Sir, we have these, Sir <hi>Robert Tracy,</hi> Sir <hi>Gamali<g ref="char:EOLhyphen"/>el Dudley,</hi> Sir <hi>Iohn Many,</hi> Sir <hi>Tho: Godfrey:</hi> Sir <hi>Iames Hales,</hi> Sir <hi>Wil: Many,</hi> Sir <hi>Iohn Dorell,</hi> Sir <hi>Richara Hardresse,</hi> Colonel <hi>Washington,</hi> Col. <hi>Le'strange,</hi> Col. <hi>Hacker,</hi> Col <hi>Culpepper,</hi> and many other Esquires and Gentlemen, of knowne valour and integrity.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>T. Pey:</hi>
+               </speaker>
+               <p>What new commodities doth this Faire afford, have yee any upstart Gentlemen to sell for Slaves, Parliament men to sell for knaves, Committee-men to dispose of for the galleys, and Excize-men for the gallowes, have yee any Citi<g ref="char:EOLhyphen"/>zens that will make pimpes, and Common-Counsell-men that weare the Cuckolds armes.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Ma:</hi>
+               </speaker>
+               <p>Sir, wee have these, and all their Implements, here's the rich Pedlaresse Mrs. <hi>Fame,</hi> will afford you choice for your money.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Fame.</hi>
+               </speaker>
+               <p>What doe you lack or buy Gent: any Votes, Orders, or Declarations, any Plots, Covenants, or Protestati<g ref="char:EOLhyphen"/>ons, will you buy an Ordinance of Indempnity, perchance one of you may be a Rebell or a Parliament man, will you please to buy a new Ordinance for putting Malignants out of the Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> and the late lines of Communication; see what you want Gentlemen, see what you want.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>T. Pal:</hi>
+               </speaker>
+               <p>Hast thou ere an upstart Gentleman to sell, one that hath formerly sat crosse-leg'd on a Shop-bord, hath been a Broom-man, or a Kennell-raker a Dray-man, or a Porter,
+<pb n="6" facs="tcp:161785:4"/> and now doth rant it and imitateth the Gentilest garb, and loves to Complement.</p>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <p>Sir, I have choice of those, I have Col. <hi>Pride, Player.</hi> and others, but if you'l have a Prince and void of shame, take this man for your use, his name is <hi>Bark-stead,</hi> the proud Thim<g ref="char:EOLhyphen"/>ble-maker, who walkes the round each night at <hi>Westminster,</hi> a Fool in folio yet a mighty Talker, whose Complements are tane from <hi>Martin Parker;</hi> yet fit him with a Whore that plea<g ref="char:EOLhyphen"/>ses him, and you shall heare him wast his lungs in praise of her, untill he need some <hi>Aqua-vita,</hi> take this man on my cre<g ref="char:EOLhyphen"/>dit Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>T. Pal:</hi>
+               </speaker>
+               <p>Hast thou ere a Parliament man a knave, I have some use of one.</p>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <p>I have a hundred Sir, why they abound Sir, I can afford you twenty at cheape rate, buy these halfe dozen of me they are transcendent knaves Sir ile assure, or ne're buy of me more.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>T. Pal:</hi>
+               </speaker>
+               <p>Where be they?</p>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <p>Here Sir, there's <hi>Harry Martin,</hi> there's <hi>Weaver</hi> (who pronounced openly to the rest of his fellowes, That it was fit the King should be brought to his tryall, and hang'd, drawne and quartered, rather then Treated with, Hee being the only cause of all the Blood-shed throughout the three <hi>Kingdomes,)</hi> I have set a speciall mark upon this man Sir, and it is a <hi>T,</hi> and an <hi>R;</hi> the third, is <hi>Scot;</hi> the fourth, <hi>Vane;</hi> the fifth, <hi>Mild<g ref="char:EOLhyphen"/>may;</hi> and the sixt <hi>Manchester,</hi> the wild Boare who hath roo<g ref="char:EOLhyphen"/>ted up two famous Universities, and deadly wounded Lear<g ref="char:EOLhyphen"/>ning and Learned men, there they be Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>T. Pal:</hi>
+               </speaker>
+               <p>These Ile reserve for Hawkes-meat, they will save me the charges of Buying, and my men the trouble of procuring Horses and Dogs-flesh, hast thou ever a Capritious Committee-man, to dispose of to the Galleys.</p>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <p>O many Sir, three that will fit you to a haire.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>T. Pal.</hi>
+               </speaker>
+               <p>Let me see them, what are their names?</p>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <p>Here's <hi>Challoner</hi> the Athiest, <hi>Corbet</hi> the Cuckold, and <hi>Fouke</hi> the Fool.</p>
+            </sp>
+            <pb n="7" facs="tcp:161785:4"/>
+            <sp>
+               <speaker>Sir <hi>T. Pal:</hi>
+               </speaker>
+               <p>These, these will serve my turn excellently well, <hi>Challoner</hi> would make a good Devine amongst the <hi>Indians, Corbet</hi> I will sell to the great <hi>Turke,</hi> hee may have use for him in his <hi>Seraglio,</hi> and <hi>Fouke</hi> I will reserve for my selfe, and will provide him a Coat and a Cap, hee shall be my Iester; hast thou ere an Excize-man to dispose to the gallowes, for an ex<g ref="char:EOLhyphen"/>ample to the rest?</p>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <p>Yes Sir, here's <hi>Wilkins</hi> the Excize-man, I dare put him into your hands, for a Villaine worth hanging.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>T. Pal:</hi>
+               </speaker>
+               <p>Bind his hands behind him, hee is ordained for death, and shall bee hang'd on a Gibbet erected on purpose; hast thou ere a Citizen that would make a Pimpe, a close and trusty Pimpe?</p>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <p>O Sir yes, I have one will fit your turne ile warrant you, here's one Sir that was Pimpe to his owne Wife, for a yearly stipend, his name is <hi>R. D.</hi> take him Sir upon my word, hee will hold the doore with any man of his inches a<g ref="char:EOLhyphen"/>bout <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>T. Pal:</hi>
+               </speaker>
+               <p>Hast thou ere a Common-Counsell-man, that weares branchers, and can derive the Pedigree of Cuckolds from <hi>Adams</hi> time to this day, who weares his branch in try<g ref="char:EOLhyphen"/>umph, and takes a Pride to heare men praise his hornes?</p>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <p>Sir, I can fit you to a Cowes-thumb, would you have an Alderman, a Militia man, or a Common-Counsell man.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>T. Pal:</hi>
+               </speaker>
+               <p>I told thee before, a Common-Counsell man.</p>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <p>Here then Sir, take this man with the Gold-chaine, perhaps you have heard, how he defil'd his Breeches, but that's nothing Sir, he is well read in the Science of Cuckoldry.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>T. Pal:</hi>
+               </speaker>
+               <p>I like him well, what hast thou else worthy my money?</p>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <p>Here's a mad Order Sir, lately put forth by the Re<g ref="char:EOLhyphen"/>bels, which saith, that the Lives and Lands of these that keepe the <hi>Faire</hi> in <hi>Kent,</hi> shall be lawfull prize to the Souldiery, and further commands, <hi>That no quarter bee given either to Man, Woman, or Child.</hi>
+               </p>
+            </sp>
+            <pb n="8" facs="tcp:161785:5"/>
+            <sp>
+               <speaker>Sir <hi>T. Peyton.</hi>
+               </speaker>
+               <p>Saist thou so <hi>Fame,</hi> their Order wee'l make good upon themselves, and crush their soules out with our y<g ref="char:EOLhyphen"/>ron hands, have they sat seaven yeares to marre our Govern<g ref="char:EOLhyphen"/>ment, and would they now ceaze on our Lives and States; thinke they for to build high upon our ruines, know <hi>Fame,</hi> and eccho it throughout the world, <hi>Kent</hi> will bee loyall to their King, should all the Kingdome else prove wicked, al<g ref="char:EOLhyphen"/>though wee are not fearfull to find ayd, <hi>Surrey, Essex,</hi> and <hi>Cornwall,</hi> have promised to come in, to our assistance.</p>
+            </sp>
+            <sp>
+               <lg>
+                  <l>Then let the Rebels, and their <hi>Fairfax</hi> know,</l>
+                  <l>That they must fall, for Fate will have it so:</l>
+                  <l>Wee have begun to rout them, nor will cease,</l>
+                  <l>Till with their cursed Liv<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>, wee buy our Peace.</l>
+                  <l>Great <hi>CHARLES</hi> looke up, for now redemption comes,</l>
+                  <l>
+                     <hi>Peace</hi> speaketh, in the language of our Drums,</l>
+                  <l>By <hi>Blood</hi> they hold their power, by <hi>Blood</hi> must wee</l>
+                  <l>Restore our <hi>King,</hi> unto his Soveraigntie:</l>
+                  <l>Our selves unto our Rights, which wee have lost,</l>
+                  <l>By trusting seeming Friends, who hate us most.</l>
+                  <l>Sound Drums and Trumpets, let the Kingdome heare,</l>
+                  <l>The Rebels must not Reigne, another yeare.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
